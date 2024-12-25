@@ -36,3 +36,5 @@ The EDA phase involves:
 4. Renters are more likely to have loans charged off compared to homeowners. Homeownership may reflect financial stability, reducing default risk.
 5. Loans taken for debt consolidation purposes have a higher likelihood of being charged off. 
 
+## Owners
+Shristi Bisht and Sandeep
