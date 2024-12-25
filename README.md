@@ -37,4 +37,4 @@ The EDA phase involves:
 5. Loans taken for debt consolidation purposes have a higher likelihood of being charged off. 
 
 ## Owners
-Shristi Bisht and Sandeep
+Shristi Bisht and Mandavalli NV Saisandeep
