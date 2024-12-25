@@ -1,5 +1,5 @@
 # LendingClubCaseStudy
-Upgrad IITB Lending Club Case Study: Shristi, Mandavalli NV Saisandeep
+Upgrad IITB Lending Club Case Study: Shristi Bisht, Mandavalli NV Saisandeep
 
 
 ## Objective
